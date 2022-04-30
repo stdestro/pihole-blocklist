@@ -1,13 +1,4 @@
-#=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
-# Google Plus
-#127.0.0.1 plus.l.google.com
-#127.0.0.1 plus.sandbox.google.com
-#127.0.0.1 plusone.google.com
 0.0.0.0 plus.google.com
-
-# Facebook
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 0.beta.facebook.com
